@@ -95,6 +95,22 @@ To confirm that the live templates are imported successfully, go to
 | 40     | upgrade          | `:arrow_up:`                  | Upgrading dependencies.                     | :arrow_up:                  |
 | 41     | ux               | `:children_crossing:`         | Improving user experience / usability.      | :children_crossing:         |
 
+### Pull Request
+To generate a pull request, please consider following [Pull Request Template](https://github.com/BirjuVachhani/gitmoji-android-live-templates/blob/master/PULL_REQUEST_TEMPLATE.md).
+
+### Issues
+To submit an issue, please check the [Issue Template](https://github.com/BirjuVachhani/lgitmoji-android-live-templates/blob/master/ISSUE_TEMPLATE.md).
+
+Code of Conduct
+---
+[Code of Conduct](https://github.com/BirjuVachhani/gitmoji-android-live-templates/blob/master/CODE_OF_CONDUCT.md)
+
+## Contribution
+
+You are most welcome to contribute to this project!
+
+Please have a look at [Contributing Guidelines](https://github.com/BirjuVachhani/gitmoji-android-live-templates/blob/master/CONTRIBUTING.md), before contributing and proposing a change.
+
 ## License
 
 ```
