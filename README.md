@@ -51,7 +51,46 @@ To confirm that the live templates are imported successfully, go to
 
 ## Available Gitmojis
 
-```
-// TODO
-```
-
+| **No** | **Abbreviation** | **Actual Template Text**      | **Description**                             | **Gitmoji**                 |
+|--------|------------------|-------------------------------|---------------------------------------------|-----------------------------|
+| 1      | access           | `:wheelchair:`                | Improving accessibility.                    | :wheelchair:                |
+| 2      | addci            | `:construction_worker:`       | Adding CI build system.                     | :construction_worker:       |
+| 3      | adddep           | `:heavy_plus_sign:`           | Adding a dependency.                        | :heavy_plus_sign:           |
+| 4      | analytics        | `:chart_with_upwards_trend:`  | Adding analytics or tracking code.          | :chart_with_upwards_trend:  |
+| 5      | arch             | `:building_construction:`     | Making architectural changes.               | :building_construction:     |
+| 6      | assets           | `:bento:`                     | Adding or updating assets.                  | :bento:                     |
+| 7      | bad              | `:poop:`                      | Writing bad code that needs to be improved. | :poop:                      |
+| 8      | breaking         | `:boom:`                      | Introducing breaking changes.               | :boom:                      |
+| 9      | bug              | `:bug:`                       | Fixing a bug.                               | :bug:                       |
+| 10     | ci               | `:green_heart:`               | Fixing CI Build.                            | :green_heart:               |
+| 11     | comment          | `:bulb:`                      | Documenting source code.                    | :bulb:                      |
+| 12     | config           | `:wrench:`                    | Changing configuration files.               | :wrench:                    |
+| 13     | db               | `:card_file_box:`             | Performing database related changes.        | :card_file_box:             |
+| 14     | degrade          | `:arrow_down:`                | Downgrading dependencies.                   | :arrow_down:                |
+| 15     | deploy           | `:rocket:`                    | Deploying stuff.                            | :rocket:                    |
+| 16     | docs             | `:pencil:`                    | Writing docs.                               | :pencil:                    |
+| 17     | exp              | `:alembic:`                   | Experimenting new things                    | :alembic:                   |
+| 18     | feat             | `:sparkles:`                  | Introducing new features.                   | :sparkles:                  |
+| 19     | gitignore        | `:see_no_evil:`               | Adding or updating a `.gitignore` file      | :see_no_evil:               |
+| 20     | hotfix           | `:ambulance:`                 | Critical hotfix.                            | :ambulance:                 |
+| 21     | init             | `:tada:`                      | Initial commit.                             | :tada:                      |
+| 22     | merge            | `:twisted_rightwards_arrows:` | Merging branches.                           | :twisted_rightwards_arrows: |
+| 23     | move             | `:truck:`                     | Moving or renaming files.                   | :truck:                     |
+| 24     | perf             | `:zap:`                       | Improving performance.                      | :zap:                       |
+| 25     | refactor         | `:recycle:`                   | Refactoring code.                           | :recycle:                   |
+| 26     | release          | `:bookmark:`                  | Releasing / Version tags.                   | :bookmark:                  |
+| 27     | remove           | `:fire:`                      | Removing code or files.                     | :fire:                      |
+| 28     | rename           | `:truck:`                     | Moving or renaming files.                   | :truck:                     |
+| 29     | responsive       | `:iphone:`                    | Working on responsive design.               | :iphone:                    |
+| 30     | revert           | `:rewind:`                    | Reverting changes.                          | :rewind:                    |
+| 31     | review           | `:ok_hand:`                   | Updating code due to code review changes.   | :ok_hand:                   |
+| 32     | rmdep            | `:heavy_minus_sign:`          | Removing a dependency.                      | :heavy_minus_sign:          |
+| 33     | rmlog            | `:mute:`                      | Removing logs.                              | :mute:                      |
+| 34     | security         | `:lock:`                      | Fixing security issues.                     | :lock:                      |
+| 35     | struct           | `:art:`                       | Improving structure / format of the code.   | :art:                       |
+| 36     | test             | `:white_check_mark:`          | Updating tests.                             | :white_check_mark:          |
+| 37     | text             | `:speech_balloon:`            | Updating text and literals.                 | :speech_balloon:            |
+| 38     | typo             | `:pencil2:`                   | Fixing typos.                               | :pencil2:                   |
+| 39     | ui               | `:lipstick:`                  | Updating the UI and style files.            | :lipstick:                  |
+| 40     | upgrade          | `:arrow_up:`                  | Upgrading dependencies.                     | :arrow_up:                  |
+| 41     | ux               | `:children_crossing:`         | Improving user experience / usability.      | :children_crossing:         |
