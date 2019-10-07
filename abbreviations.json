@@ -1,0 +1,289 @@
+[
+  {
+    "No": "1",
+    "Abbreviation": "access",
+    "Actual Template Text": "`:wheelchair:`",
+    "Description": "Improving accessibility.",
+    "Gitmoji": ": wheelchair:"
+  },
+  {
+    "No": "2",
+    "Abbreviation": "addci",
+    "Actual Template Text": "`:construction_worker:`",
+    "Description": "Adding CI build system.",
+    "Gitmoji": ": construction_worker:"
+  },
+  {
+    "No": "3",
+    "Abbreviation": "adddep",
+    "Actual Template Text": "`:heavy_plus_sign:`",
+    "Description": "Adding a dependency.",
+    "Gitmoji": ": heavy_plus_sign:"
+  },
+  {
+    "No": "4",
+    "Abbreviation": "analytics",
+    "Actual Template Text": "`:chart_with_upwards_trend:`",
+    "Description": "Adding analytics or tracking code.",
+    "Gitmoji": ": chart_with_upwards_trend:"
+  },
+  {
+    "No": "5",
+    "Abbreviation": "arch",
+    "Actual Template Text": "`:building_construction:`",
+    "Description": "Making architectural changes.",
+    "Gitmoji": ": building_construction:"
+  },
+  {
+    "No": "6",
+    "Abbreviation": "assets",
+    "Actual Template Text": "`:bento:`",
+    "Description": "Adding or updating assets.",
+    "Gitmoji": ": bento:"
+  },
+  {
+    "No": "7",
+    "Abbreviation": "bad",
+    "Actual Template Text": "`:poop:`",
+    "Description": "Writing bad code that needs to be improved.",
+    "Gitmoji": ": poop:"
+  },
+  {
+    "No": "8",
+    "Abbreviation": "breaking",
+    "Actual Template Text": "`:boom:`",
+    "Description": "Introducing breaking changes.",
+    "Gitmoji": ": boom:"
+  },
+  {
+    "No": "9",
+    "Abbreviation": "bug",
+    "Actual Template Text": "`:bug:`",
+    "Description": "Fixing a bug.",
+    "Gitmoji": ": bug:"
+  },
+  {
+    "No": "10",
+    "Abbreviation": "ci",
+    "Actual Template Text": "`:green_heart:`",
+    "Description": "Fixing CI Build.",
+    "Gitmoji": ": green_heart:"
+  },
+  {
+    "No": "11",
+    "Abbreviation": "comment",
+    "Actual Template Text": "`:bulb:`",
+    "Description": "Documenting source code.",
+    "Gitmoji": ": bulb:"
+  },
+  {
+    "No": "12",
+    "Abbreviation": "config",
+    "Actual Template Text": "`:wrench:`",
+    "Description": "Changing configuration files.",
+    "Gitmoji": ": wrench:"
+  },
+  {
+    "No": "13",
+    "Abbreviation": "db",
+    "Actual Template Text": "`:card_file_box:`",
+    "Description": "Performing database related changes.",
+    "Gitmoji": ": card_file_box:"
+  },
+  {
+    "No": "14",
+    "Abbreviation": "degrade",
+    "Actual Template Text": "`:arrow_down:`",
+    "Description": "Downgrading dependencies.",
+    "Gitmoji": ": arrow_down:"
+  },
+  {
+    "No": "15",
+    "Abbreviation": "deploy",
+    "Actual Template Text": "`:rocket:`",
+    "Description": "Deploying stuff.",
+    "Gitmoji": ": rocket:"
+  },
+  {
+    "No": "16",
+    "Abbreviation": "docs",
+    "Actual Template Text": "`:pencil:`",
+    "Description": "Writing docs.",
+    "Gitmoji": ": pencil:"
+  },
+  {
+    "No": "17",
+    "Abbreviation": "exp",
+    "Actual Template Text": "`:alembic:`",
+    "Description": "Experimenting new things",
+    "Gitmoji": ": alembic:"
+  },
+  {
+    "No": "18",
+    "Abbreviation": "feat",
+    "Actual Template Text": "`:sparkles:`",
+    "Description": "Introducing new features.",
+    "Gitmoji": ": sparkles:"
+  },
+  {
+    "No": "19",
+    "Abbreviation": "gitignore",
+    "Actual Template Text": "`:see_no_evil:`",
+    "Description": "Adding or updating a `.gitignore` file",
+    "Gitmoji": ": see_no_evil:"
+  },
+  {
+    "No": "20",
+    "Abbreviation": "hotfix",
+    "Actual Template Text": "`:ambulance:`",
+    "Description": "Critical hotfix.",
+    "Gitmoji": ": ambulance:"
+  },
+  {
+    "No": "21",
+    "Abbreviation": "init",
+    "Actual Template Text": "`:tada:`",
+    "Description": "Initial commit.",
+    "Gitmoji": ": tada:"
+  },
+  {
+    "No": "22",
+    "Abbreviation": "merge",
+    "Actual Template Text": "`:twisted_rightwards_arrows:`",
+    "Description": "Merging branches.",
+    "Gitmoji": ": twisted_rightwards_arrows:"
+  },
+  {
+    "No": "23",
+    "Abbreviation": "move",
+    "Actual Template Text": "`:truck:`",
+    "Description": "Moving or renaming files.",
+    "Gitmoji": ": truck:"
+  },
+  {
+    "No": "24",
+    "Abbreviation": "perf",
+    "Actual Template Text": "`:zap:`",
+    "Description": "Improving performance.",
+    "Gitmoji": ": zap:"
+  },
+  {
+    "No": "25",
+    "Abbreviation": "refactor",
+    "Actual Template Text": "`:recycle:`",
+    "Description": "Refactoring code.",
+    "Gitmoji": ": recycle:"
+  },
+  {
+    "No": "26",
+    "Abbreviation": "release",
+    "Actual Template Text": "`:bookmark:`",
+    "Description": "Releasing / Version tags.",
+    "Gitmoji": ": bookmark:"
+  },
+  {
+    "No": "27",
+    "Abbreviation": "remove",
+    "Actual Template Text": "`:fire:`",
+    "Description": "Removing code or files.",
+    "Gitmoji": ": fire:"
+  },
+  {
+    "No": "28",
+    "Abbreviation": "rename",
+    "Actual Template Text": "`:truck:`",
+    "Description": "Moving or renaming files.",
+    "Gitmoji": ": truck:"
+  },
+  {
+    "No": "29",
+    "Abbreviation": "responsive",
+    "Actual Template Text": "`:iphone:`",
+    "Description": "Working on responsive design.",
+    "Gitmoji": ": iphone:"
+  },
+  {
+    "No": "30",
+    "Abbreviation": "revert",
+    "Actual Template Text": "`:rewind:`",
+    "Description": "Reverting changes.",
+    "Gitmoji": ": rewind:"
+  },
+  {
+    "No": "31",
+    "Abbreviation": "review",
+    "Actual Template Text": "`:ok_hand:`",
+    "Description": "Updating code due to code review changes.",
+    "Gitmoji": ": ok_hand:"
+  },
+  {
+    "No": "32",
+    "Abbreviation": "rmdep",
+    "Actual Template Text": "`:heavy_minus_sign:`",
+    "Description": "Removing a dependency.",
+    "Gitmoji": ": heavy_minus_sign:"
+  },
+  {
+    "No": "33",
+    "Abbreviation": "rmlog",
+    "Actual Template Text": "`:mute:`",
+    "Description": "Removing logs.",
+    "Gitmoji": ": mute:"
+  },
+  {
+    "No": "34",
+    "Abbreviation": "security",
+    "Actual Template Text": "`:lock:`",
+    "Description": "Fixing security issues.",
+    "Gitmoji": ": lock:"
+  },
+  {
+    "No": "35",
+    "Abbreviation": "struct",
+    "Actual Template Text": "`:art:`",
+    "Description": "Improving structure / format of the code.",
+    "Gitmoji": ": art:"
+  },
+  {
+    "No": "36",
+    "Abbreviation": "test",
+    "Actual Template Text": "`:white_check_mark:`",
+    "Description": "Updating tests.",
+    "Gitmoji": ": white_check_mark:"
+  },
+  {
+    "No": "37",
+    "Abbreviation": "text",
+    "Actual Template Text": "`:speech_balloon:`",
+    "Description": "Updating text and literals.",
+    "Gitmoji": ": speech_balloon:"
+  },
+  {
+    "No": "38",
+    "Abbreviation": "typo",
+    "Actual Template Text": "`:pencil2:`",
+    "Description": "Fixing typos.",
+    "Gitmoji": ": pencil2:"
+  },
+  {
+    "No": "39",
+    "Abbreviation": "ui",
+    "Actual Template Text": "`:lipstick:`",
+    "Description": "Updating the UI and style files.",
+    "Gitmoji": ": lipstick:"
+  },
+  {
+    "No": "40",
+    "Abbreviation": "upgrade",
+    "Actual Template Text": "`:arrow_up:`",
+    "Description": "Upgrading dependencies.",
+    "Gitmoji": ": arrow_up:"
+  },
+  {
+    "No": "41",
+    "Abbreviation": "ux",
+    "Actual Template Text": "`:children_crossing:`",
+    "Description": "Improving user experience / usability.",
+    "Gitmoji": ": children_crossing:"
+  }
+]
