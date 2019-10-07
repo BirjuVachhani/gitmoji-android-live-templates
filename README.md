@@ -1,3 +1,5 @@
+![banner](banner.svg)
+
 # GitMoji Android Live Templates
 
 Do you know that you can use emojis in git commit messages? Many developers use emojis in the start of the commit message to make it more clear what the commit is about. It helps a lot when you're reviewing a PR or looking through commits to find something very specific. 
