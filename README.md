@@ -6,6 +6,8 @@ Do you know that you can use emojis in git commit messages? Many developers use 
 
 Here's how it looks like:
 
+![gitmoji_gif](gitmoji_large.gif)
+
 Your commit message when you write it:
 
 ```
