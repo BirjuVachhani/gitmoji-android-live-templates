@@ -1,207 +1,617 @@
 <templateSet group="Gitmoji">
   <template name="bug" value=":bug: " description="Fixing a bug." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="feat" value=":sparkles:" description="Introducing new features." toReformat="false" toShortenFQNames="true">
+  <template name="feat" value=":sparkles: " description="Introducing new features." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="perf" value=":zap:" description="Improving performance." toReformat="false" toShortenFQNames="true">
+  <template name="perf" value=":zap: " description="Improving performance." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="hotfix" value=":ambulance:" description="Critical hotfix." toReformat="false" toShortenFQNames="true">
+  <template name="hotfix" value=":ambulance: " description="Critical hotfix." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="docs" value=":pencil:" description="Writing docs." toReformat="false" toShortenFQNames="true">
+  <template name="docs" value=":pencil: " description="Writing docs." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="refactor" value=":recycle:" description="Refactoring code." toReformat="false" toShortenFQNames="true">
+  <template name="refactor" value=":recycle: " description="Refactoring code." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="remove" value=":fire:" description="Removing code or files." toReformat="false" toShortenFQNames="true">
+  <template name="remove" value=":fire: " description="Removing code or files." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="deploy" value=":rocket:" description="Deploying stuff." toReformat="false" toShortenFQNames="true">
+  <template name="deploy" value=":rocket: " description="Deploying stuff." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="ui" value=":lipstick:" description="Updating the UI and style files." toReformat="false" toShortenFQNames="true">
+  <template name="ui" value=":lipstick: " description="Updating the UI and style files." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="init" value=":tada:" description="Initial commit." toReformat="false" toShortenFQNames="true">
+  <template name="init" value=":tada: " description="Initial commit." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="security" value=":lock:" description="Fixing security issues." toReformat="false" toShortenFQNames="true">
+  <template name="security" value=":lock: " description="Fixing security issues." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="test" value=":white_check_mark:" description="Updating tests." toReformat="false" toShortenFQNames="true">
+  <template name="test" value=":white_check_mark: " description="Updating tests." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="release" value=":bookmark:" description="Releasing / Version tags." toReformat="false" toShortenFQNames="true">
+  <template name="release" value=":bookmark: " description="Releasing / Version tags." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="ci" value=":green_heart:" description="Fixing CI Build." toReformat="false" toShortenFQNames="true">
+  <template name="ci" value=":green_heart: " description="Fixing CI Build." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="degrade" value=":arrow_down:" description="Downgrading dependencies." toReformat="false" toShortenFQNames="true">
+  <template name="degrade" value=":arrow_down: " description="Downgrading dependencies." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="upgrade" value=":arrow_up:" description="Upgrading dependencies." toReformat="false" toShortenFQNames="true">
+  <template name="upgrade" value=":arrow_up: " description="Upgrading dependencies." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="addci" value=":construction_worker:" description="Adding CI build system." toReformat="false" toShortenFQNames="true">
+  <template name="addci" value=":construction_worker: " description="Adding CI build system." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="analytics" value=":chart_with_upwards_trend:" description="Adding analytics or tracking code." toReformat="false" toShortenFQNames="true">
+  <template name="analytics" value=":chart_with_upwards_trend: " description="Adding analytics or tracking code." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="adddep" value=":heavy_plus_sign:" description="Adding a dependency." toReformat="false" toShortenFQNames="true">
+  <template name="adddep" value=":heavy_plus_sign: " description="Adding a dependency." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="config" value=":wrench:" description="Changing configuration files." toReformat="false" toShortenFQNames="true">
+  <template name="config" value=":wrench: " description="Changing configuration files." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="typo" value=":pencil2:" description="Fixing typos." toReformat="false" toShortenFQNames="true">
+  <template name="typo" value=":pencil2: " description="Fixing typos." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="bad" value=":poop:" description="Writing bad code that needs to be improved." toReformat="false" toShortenFQNames="true">
+  <template name="bad" value=":poop: " description="Writing bad code that needs to be improved." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="revert" value=":rewind:" description="Reverting changes." toReformat="false" toShortenFQNames="true">
+  <template name="revert" value=":rewind: " description="Reverting changes." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="merge" value=":twisted_rightwards_arrows:" description="Merging branches." toReformat="false" toShortenFQNames="true">
+  <template name="merge" value=":twisted_rightwards_arrows: " description="Merging branches." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="move" value=":truck:" description="Moving or renaming files." toReformat="false" toShortenFQNames="true">
+  <template name="move" value=":truck: " description="Moving or renaming files." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="rename" value=":truck:" description="Moving or renaming files." toReformat="false" toShortenFQNames="true">
+  <template name="rename" value=":truck: " description="Moving or renaming files." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="assets" value=":bento:" description="Adding or updating assets." toReformat="false" toShortenFQNames="true">
+  <template name="assets" value=":bento: " description="Adding or updating assets." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="breaking" value=":boom:" description="Introducing breaking changes." toReformat="false" toShortenFQNames="true">
+  <template name="breaking" value=":boom: " description="Introducing breaking changes." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="review" value=":ok_hand:" description="Updating code due to code review changes." toReformat="false" toShortenFQNames="true">
+  <template name="review" value=":ok_hand: " description="Updating code due to code review changes." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="access" value=":wheelchair:" description="Improving accessibility." toReformat="false" toShortenFQNames="true">
+  <template name="access" value=":wheelchair: " description="Improving accessibility." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="comment" value=":bulb:" description="Documenting source code." toReformat="false" toShortenFQNames="true">
+  <template name="comment" value=":bulb: " description="Documenting source code." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="text" value=":speech_balloon:" description="Updating text and literals." toReformat="false" toShortenFQNames="true">
+  <template name="text" value=":speech_balloon: " description="Updating text and literals." toReformat="false" toShortenFQNames="true" deactivated="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="db" value=":card_file_box:" description="Performing database related changes." toReformat="false" toShortenFQNames="true">
+  <template name="db" value=":card_file_box: " description="Performing database related changes." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="rmlog" value=":mute:" description="Removing logs." toReformat="false" toShortenFQNames="true">
+  <template name="rmlog" value=":mute: " description="Removing logs." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="ux" value=":children_crossing:" description="Improving user experience / usability." toReformat="false" toShortenFQNames="true">
+  <template name="ux" value=":children_crossing: " description="Improving user experience / usability." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="arch" value=":building_construction:" description="Making architectural changes." toReformat="false" toShortenFQNames="true">
+  <template name="arch" value=":building_construction: " description="Making architectural changes." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="responsive" value=":iphone:" description="Working on responsive design." toReformat="false" toShortenFQNames="true">
+  <template name="responsive" value=":iphone: " description="Working on responsive design." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="gitignore" value=":see_no_evil:" description="Adding or updating a .gitignore file" toReformat="false" toShortenFQNames="true">
+  <template name="gitignore" value=":see_no_evil: " description="Adding or updating a .gitignore file" toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="exp" value=":alembic:" description="Experimenting new things" toReformat="false" toShortenFQNames="true">
+  <template name="exp" value=":alembic: " description="Experimenting new things" toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="struct" value=":art:" description="Improving structure / format of the code." toReformat="false" toShortenFQNames="true">
+  <template name="struct" value=":art: " description="Improving structure / format of the code." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
-  <template name="rmdep" value=":heavy_minus_sign:" description="Removing a dependency." toReformat="false" toShortenFQNames="true">
+  <template name="rmdep" value=":heavy_minus_sign: " description="Removing a dependency." toReformat="false" toShortenFQNames="true">
     <context>
+      <option name="DART" value="false" />
+      <option name="FLUTTER" value="false" />
+      <option name="GROOVY" value="false" />
+      <option name="HTML" value="false" />
+      <option name="JAVA_CODE" value="false" />
+      <option name="JSON" value="false" />
+      <option name="KOTLIN" value="false" />
       <option name="OTHER" value="true" />
+      <option name="XML" value="false" />
+      <option name="c" value="false" />
+      <option name="cpp" value="false" />
     </context>
   </template>
 </templateSet>
